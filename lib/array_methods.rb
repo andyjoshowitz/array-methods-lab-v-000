@@ -23,6 +23,6 @@ def using_last(array)
 end
 
 def using_size(array)
-  array = ["wow", "wow", "arrays!"]
-  array.reverse
+  array = ["wow", "wow", "arrays!", "arrays!", "arrays!", "am"]
+  array.size
 end
